@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/03 12:47:21.000.571,=C:\Users\ibo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/03 12:51:07.000.401,=C:\Users\ibo\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/09/03 13:21:43.000.799,C:\Users\ibo\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\ibo\Documents\RAD Studio\Projects\proje\Unit1.pas</Transaction>
+    <Transaction>2018/09/03 13:21:43.000.799,C:\Users\ibo\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\ibo\Documents\RAD Studio\Projects\proje\Unit1.dfm</Transaction>
+    <Transaction>2018/09/03 13:21:46.000.226,C:\Users\ibo\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\ibo\Documents\RAD Studio\Projects\proje\Unit2.pas</Transaction>
+    <Transaction>2018/09/03 13:21:46.000.226,C:\Users\ibo\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\ibo\Documents\RAD Studio\Projects\proje\Unit2.dfm</Transaction>
+    <Transaction>2018/09/03 13:21:48.000.172,C:\Users\ibo\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\ibo\Documents\RAD Studio\Projects\proje\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

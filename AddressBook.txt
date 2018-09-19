@@ -1,0 +1,8 @@
+Tolga          Inci           IT                  Student        tolga.inci@emu.edu.tr                   
+Sunar          Ustaahmetoglu  IT                  Student        sunar.ustaahmetoglu@emu.edu.tr          
+David          Okika          IT                  Student        david.okika@emu.edu.tr                  
+Abdulsalam     Gusau          IT                  Student        abdulsalam.gusau@emu.edu.tr             
+Ali            Talib          IT                  Student        ali.talib@emu.edu.tr                    
+Kamaldeen      Ismail         IT                  Student        kamaldeen.ismail@emu.edu.tr             
+Oluwatobi      Bakare         IT                  Student        oluwatobi.bakare@emu.edu.tr             
+Ibrahim        Jawdet         IT                  Student        ibo@emu.edu.tr                          
